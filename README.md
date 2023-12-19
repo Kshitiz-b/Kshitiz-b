@@ -17,6 +17,8 @@
 
 - 📫 Reach me out on **kshitizb168@gmail.com**
 
+- 💻 To know more about me, check out my [Website](https://kshitizb168.wixsite.com/kshitiz-bhargava)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kshitiz__b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshitiz__b" height="30" width="40" /></a>
