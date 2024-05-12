@@ -11,7 +11,7 @@
 
 ## :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Kshitiz-b?tab=repositories)
 
