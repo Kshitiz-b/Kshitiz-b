@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshitiz Bhargava</h1>
-<h2 align="center">A Programmer</h2>
+<h2 align="center">A Passionate Developer | Cloud & AI Enthusiast</h2>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Glad+to+meet+you!">
@@ -7,39 +7,45 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitiz-b&label=Profile%20views&color=0e75b6&style=flat" alt="kshitiz-b" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kshitiz__b" target="blank"><img src="https://img.shields.io/twitter/follow/kshitiz__b?logo=twitter&style=for-the-badge" alt="kshitiz__b" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kshitiz__b" target="blank"><img src="https://img.shields.io/twitter/follow/kshitiz__b?logo=twitter&style=for-the-badge" alt="Twitter: kshitiz__b" /></a> </p>
 
-## :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🎓 **B.Tech in Computer Science & Engineering** at VIT, Vellore (CGPA: 9.21)
+- 🌱 Currently learning **Machine Learning, Cloud Computing, and AI**
+- 🏗️ Built python projects like **PixelScan** - A DeepFake Detection Web App ([Visit Here](https://pixelscan.site))
+- 📝 Published research on **DeepFake Detection using Advanced CNN & Ensemble Models** (Accepted at IEEE ICEEICT 2024)
+- 🎯 AWS Certified Cloud Practitioner & Solutions Architect - Associate
+- 🔗 Know more about me at [My Website](https://kshitizbhargava.com)
 
-- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Kshitiz-b?tab=repositories)
+## 📫 Connect with Me
 
-- 📫 Reach me out on **kshitizb168@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitiz-bhargava)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kshitiz-b)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kshitizbhargava.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitizb168@gmail.com)
 
-- 💻 To know more about me, check out my [Website](https://kshitizb168.wixsite.com/kshitiz-bhargava)
+## 🛠️ Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kshitiz__b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshitiz__b" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kshitiz-bhargava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitiz-bhargava" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18299649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18299649" height="30" width="40" /></a>
-<a href="https://instagram.com/kshitiz__b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitiz__b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kshitiz__b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kshitiz__b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kshitiz-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshitiz-b" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kshitiz-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kshitiz-b" height="30" width="40" /></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kshitiz-b&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitiz-b&show_icons=true&locale=en&layout=compact" alt="kshitiz-b" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitiz-b&show_icons=true&locale=en" alt="kshitiz-b" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitiz-b&" alt="kshitiz-b" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz-b&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Have+a+nice+day!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Thanks+for+visiting!">
 </h1>
